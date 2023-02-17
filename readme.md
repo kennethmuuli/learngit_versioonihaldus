@@ -13,3 +13,5 @@ veel rohkem uusi ridasid
 learngit2-st tehtud muudatus
 
 cool_branchi muudatus
+
+konfliktne muudatus teine muudatus
